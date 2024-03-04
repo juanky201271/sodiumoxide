@@ -7,7 +7,7 @@ keywords = ["libsodium", "NaCl", "crypto"]
 license = "MIT OR Apache-2.0"
 links = "sodium"
 name = "libsodium-sys"
-repository = "https://github.com/sodiumoxide/sodiumoxide.git"
+repository = "https://github.com/juanky201271/sodiumoxide.git"
 categories = ["cryptography", "api-bindings"]
 version = "0.2.7"
 
